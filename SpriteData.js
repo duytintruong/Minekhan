@@ -1,3 +1,4 @@
+console.log("ready loud and clear");
 try{
         var world = [];
         function hex2array(hex){
